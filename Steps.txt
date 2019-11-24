@@ -1,0 +1,30 @@
+classes:
+1. map
+2. characters
+3. interactable / non interactable objects
+
+objects:
+for interactable / non interactable objects:
+1. walls
+2. stairs (to go between levels)
+3. other props we need (all of this depends on the level design which
+we honestly wont pay too much attention to). unique props we'll keep to a bare 
+minimum while the number of each of these props will be as much as can make to fill
+up space
+
+characters:
+1. player
+2. shafay shamail (final)
+3. adam zaman (second last)
+4. EE (second)
+5. amer rasheed (first)
+
+maps:
+almost all of our levels will be simple and roughly the same (i dont think we'll
+have time for the side levels or whatever but of course we could do them later
+if we intend to just make this game larger after the project has ended)
+
+mechanics:
+1. walking around
+2. conversation
+3. undertale style battle
