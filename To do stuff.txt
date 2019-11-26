@@ -1,0 +1,12 @@
+classes:
+1. shooter
+2. projectile
+3. asteroid/incoming spaceships
+
+mechanics:
+1. movement in any axes (arrow key controls or wasd)
+2. button to shoot
+3. game end conditions
+
+notes:
+do not use the library conio.h, it is not portable as gcc compiler does not support it
