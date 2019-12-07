@@ -18,7 +18,7 @@ public:
 		this->shape.setTexture(*texture);
 		this->shape.setScale(0.1f,0.1f);
 		//Bug: Bullets come out of side of player instead of centre
-		this->shape.setPosition(pos);
+		this->shape.setPosition(pos.x+30,pos.y);
 	}
 	~Bullet()
 	{}
@@ -30,7 +30,7 @@ public:
 	Sprite shape;
 	Texture* texture;
 
-	int HP = 10;
+	int HP = 5;
 
 	std::vector<Bullet> bullets;
 
@@ -199,7 +199,6 @@ int main()
 					break;
 				}
 			}			
-
 		}
 
 		//Enemy Spawner timer update
@@ -212,7 +211,6 @@ int main()
 				SpawnTimerEnemies=0;
 			}
 
-			
 		//Update Enemy position
 		for (size_t i = 0; i<enemies.size();i++)
 		{

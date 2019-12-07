@@ -1,14 +1,1 @@
-﻿  projectmain.cpp
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,53): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,53): warning C4244:         with
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,53): warning C4244:         [
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,53): warning C4244:             T=unsigned int
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,53): warning C4244:         ]
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,39): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,39): warning C4244:         with
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,39): warning C4244:         [
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,39): warning C4244:             T=unsigned int
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(42,39): warning C4244:         ]
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(63,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\CS100 Project RPG\projectmain.cpp(94,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  CS100 Project RPG.vcxproj -> C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\Debug\CS100 Project RPG.exe
+﻿  CS100 Project RPG.vcxproj -> C:\Users\faaiq\OneDrive\Desktop\RPG\CS 100 RPG\CS-100-Project\CS100 Project RPG\Debug\CS100 Project RPG.exe
